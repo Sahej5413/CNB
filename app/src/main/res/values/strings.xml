@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="show">show</string>
+    <string name="kist_online_notice_board">KIST online notice board</string>
+    <string name="click">Click</string>
+    <string name="monday">monday</string>
+    <string name="satuday">satuday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="thursday">thursday</string>
+    <string name="friday">friday</string>
+    <string name="user">User</string>
+    <string name="login">login</string>
+    <string name="password">Password</string>
+    <string name="user_id_and_password_is_provided_by_your_college">NOTE : User Id and password is provided by Your college</string>
+    <string name="kist_login2">KIST Login</string>
+</resources>
